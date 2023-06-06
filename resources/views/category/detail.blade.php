@@ -18,7 +18,7 @@
     </div>
     <div class="mt-5">
         <a href="../list/"><button type="button" class="btn btn-primary w-25">検索一覧へ</button></a>
-        <a href="edit/"><button type="button" class="btn btn-success w-25">編集へ</button></a>
+        <a href="/category/edit/{{$category->id}}"><button type="button" class="btn btn-success w-25">編集へ</button></a>
     <div>
 </div>
 
